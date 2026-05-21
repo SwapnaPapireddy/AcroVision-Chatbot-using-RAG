@@ -2,7 +2,6 @@ import os
 
 import streamlit as st
 
-from dotenv import load_dotenv
 
 from langsmith import traceable
 
@@ -20,7 +19,6 @@ from prompt import (
 # LOAD ENV
 # ---------------------------------------------------------
 
-load_dotenv()
 
 # ---------------------------------------------------------
 # PAGE CONFIG
