@@ -112,7 +112,7 @@ def get_retriever(data_dir: str) -> Retriever:
         )
 
     pdf_files = list(
-        data_path.glob("agrovision_data.pdf")
+        data_path.glob("agrovision_data (2).pdf")
     )
 
     if not pdf_files:
