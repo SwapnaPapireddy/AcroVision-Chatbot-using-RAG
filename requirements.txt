@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+huggingface_hub
+numpy
+faiss-cpu
+pypdf
+langsmith
+langchain-text-splitters
+sentence_transformers
