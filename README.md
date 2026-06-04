@@ -310,4 +310,3 @@ Swapna Papireddy
 
 AI/ML Developer | Generative AI Enthusiast
 
-You can directly use this as your `README.md` for the AgroVision AI Chatbot project.
