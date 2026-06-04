@@ -241,11 +241,10 @@ RAG_AGROVISION_PROJECT/
 
 ### 1️⃣ Clone Repository
 
-git clone [https://github.com/your-username/agrovision-ai-chatbot.git](https://github.com/your-username/agrovision-ai-chatbot.git)
-
+git clone [https://github.com/your-username/agrovision-ai-chatbot.git](https://huggingface.co/spaces/swapnapapireddy3/AcroVision-chatbot)
 ### 2️⃣ Navigate to Project
 
-cd agrovision-ai-chatbot
+cd AcroVision-chatbot
 
 ### 3️⃣ Create Virtual Environment
 
@@ -280,8 +279,6 @@ streamlit run app.py
 * 🌦️ Weather API Integration
 * 📍 Location-Based Crop Recommendations
 * 📸 Plant Disease Detection
-* 🎙️ Voice-Based Agriculture Assistant
-* 🌐 Multi-Language Support
 * ☁️ Cloud Deployment
 * 📊 Agriculture Analytics Dashboard
 * 🤖 Advanced RAG Pipeline
