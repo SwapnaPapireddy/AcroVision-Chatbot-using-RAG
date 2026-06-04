@@ -49,46 +49,9 @@ The system retrieves information from agricultural PDF documents and uses AI to 
 
 ## 🏗️ System Workflow
 
-User Question
-│
-▼
-Streamlit Frontend
-│
-▼
-Router Module
-│
-├── General Agriculture Query
-│         │
-│         ▼
-│       LLM Response
-│
-└── Knowledge Base Query
-│
-▼
-PDF Document Loader
-│
-▼
-Text Chunking
-│
-▼
-Embedding Generation
-│
-▼
-FAISS Vector Store
-│
-▼
-Relevant Retrieval
-│
-▼
-Prompt Engineering
-│
-▼
-LLM Generation
-│
-▼
-Final Response
 
----
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/783bcd09-587f-49ed-9e1f-e5b74477bdbd" />
+
 
 ## ⚙️ How It Works
 
