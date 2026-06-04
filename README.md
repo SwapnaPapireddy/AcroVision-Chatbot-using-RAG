@@ -14,6 +14,10 @@ The system retrieves information from agricultural PDF documents and uses AI to 
 
 ---
 
+# 🌐 Live Demo
+
+🔗 [AgroVision AI Chatbot](https://huggingface.co/spaces/swapnapapireddy3/AcroVision-chatbot)
+
 ## 🎯 Objectives
 
 * Provide instant agriculture-related guidance
